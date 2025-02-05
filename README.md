@@ -1,16 +1,14 @@
 <div align="center">
   
-### 👩‍💻 Merihan Daniel ###
-
----
+# 👩‍💻 Merihan Daniel
 
 <!-- Social Icons -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/merihan-d-486339196/)
-[![X](https://img.shields.io/badge/X-Profile-black?logo=x&logoColor=white)](https://x.com/CSMerihan)
+[![X](https://img.shields.io/badge/Profile-black?logo=x&logoColor=white)](https://x.com/CSMerihan)
 [![Hackerrank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank)](https://www.hackerrank.com/profile/merihan_daniel)
 
-### Data Scientist 
----
+## Data Scientist
+
 </div>
 
 ### 👤 About Me
