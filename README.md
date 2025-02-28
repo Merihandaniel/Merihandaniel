@@ -12,7 +12,7 @@
 </div>
 
 ### 👤 About Me
-📊 I am a Data Scientist passionate about AI and ML. <br>
+📊 I'm focused on building impactful tools and performing data analysis. <br>
 🏬 Working at Genentech, INC. <br>
 📍 San Fransico, CA
 
