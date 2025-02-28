@@ -12,7 +12,7 @@
 </div>
 
 ### 👤 About Me
-📊 I'm focused on building impactful tools and performing data analysis. <br>
+📊 I'm passionate about building impactful tools and performing data analysis. <br>
 🏬 Working at Genentech, INC. <br>
 📍 San Fransico, CA
 
