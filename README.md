@@ -54,6 +54,10 @@
 ##![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)-->
 ---
 
-### 🔧 Visuals Coming Soon!! 🔧
+### 📷 Visuals 
+<p align="center">
+YOLOv5 - Crown of Thorns Starfish
 
+  ![image](https://github.com/Merihandaniel/Utilizing-YOLOv5-to-identify-COT-Starfish/blob/82872bca1833d56464d9509ac97a68faa57a5a6c/COT%20Results.png)
+</p>
 </div>
