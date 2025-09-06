@@ -13,8 +13,8 @@
 
 ### 👤 About Me
 📊 I'm passionate about building impactful tools and performing data analysis. <br>
-🏬 Working at Genentech, INC. <br>
-📍 San Fransico, CA
+🏬 Working at Thermo Fisher Scientific <br>
+📍 Remote
 
 ### 💻 Language and Frameworks
 <div align="center">
